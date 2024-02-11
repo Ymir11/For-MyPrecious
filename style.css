@@ -1,6 +1,6 @@
   @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
 body{
-    background: url(/img/Background.png)no-repeat;
+    background: url(img/Background.png)no-repeat;
     width: 100%;
     min-width: 10vh;
     padding: 0;
