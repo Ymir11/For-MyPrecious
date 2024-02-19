@@ -1,0 +1,104 @@
+  @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+body{
+    background: url(img/Background.png)no-repeat;
+    width: 100%;
+    min-width: 10vh;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    font-family: 'Kalam', sans-serif; 
+    align-content: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.main{
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+}
+section{
+    padding: 150px 0px;
+} 
+.Letter{
+    background-color: #fbfbfb;
+    width: 40em;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 0 6px 30px rgb(1, 2, 2, 14.5%);
+    border-radius: 20px;
+    transition: 0.9s ease;
+}
+.Letter:hover{
+    transform: scale(1.010);
+}
+.songs{
+    background-color: #fbfbfb;
+    width: 50em;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 0 6px 30px rgb(1, 2, 2, 14.5%);
+    border-radius: 20px;
+    transition: 0.9s ease;
+}
+.songs:hover{
+    transform: scale(1.010);
+}
+.card-body{
+    text-align: center;
+}
+.main2{
+    width: 100%;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+} 
+.Cards{
+    background-color: #fbfbfb;
+    box-shadow: 0 6px 30px rgb(1, 2, 2, 14.5%);
+    border-radius: 20px;
+    width: 50em;
+    transition: 0.9s ease;
+    margin: auto;
+    padding: 15px;
+    min-height: 10em;
+}
+.Cards:hover{
+    transform: scale(1.010);
+}
+.main3{
+    width: 100%;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+}
+.loveletter{
+    background-color: #fbfbfb;
+    box-shadow: 0 6px 30px rgb(1, 2, 2, 14.5%);
+    border-radius: 20px;
+    width: 50em;
+    transition: 0.9s ease;
+    margin: auto;
+    padding: 15px;
+    min-height: 10em;
+}
+.loveletter:hover{
+    transform: scale(1.010);
+}
+.main4{
+    width: 100%;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+}
+.Poem{
+    background-color: #fbfbfb;
+    width: 40em;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 0 6px 30px rgb(1, 2, 2, 14.5%);
+    border-radius: 20px;
+    transition: 0.9s ease;
+}
